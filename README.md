@@ -5,6 +5,7 @@ This Web API is made in Eclipse and using Apache Tomcat 9. Link for Apache Tomca
 This Web Api connects MSSQL and android application PersonApiClient
 
 SQL part:
+
 use master
 go
 
