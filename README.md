@@ -4,6 +4,7 @@ This Web API is made in Eclipse and using Apache Tomcat 9 to connect to android 
 Link for Apache Tomcat 9: http://tomcat.apache.org/ 
 
 Remember to enable TCP/IP in SQL Server Configuration Manager under SQL Server Network Configuration and Protocols for "Your Database"
+Link for how to find it: https://superuser.com/questions/997663/where-is-sql-configuration-manager-in-windows-10
 
 
 This Web Api connects MSSQL and android application PersonApiClient
