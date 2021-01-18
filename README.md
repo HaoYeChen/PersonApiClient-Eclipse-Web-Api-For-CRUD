@@ -7,6 +7,7 @@ Remember to enable TCP/IP in SQL Server Configuration Manager under SQL Server N
 
 
 This Web Api connects MSSQL and android application PersonApiClient
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 SQL part:
 
