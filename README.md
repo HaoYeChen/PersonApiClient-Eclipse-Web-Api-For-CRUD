@@ -2,6 +2,7 @@
 
 This Web API is made in Eclipse and using Apache Tomcat 9 to connect to android application https://github.com/HaoYeChen/PersonApiClient-using-Retrofit-and-recyclerview project.
 Link for Apache Tomcat 9: http://tomcat.apache.org/ 
+Remember to enable TCP/IP in SQL Server Configuration Manager under SQL Server Network Configuration and Protocols for "Your Database"
 
 
 This Web Api connects MSSQL and android application PersonApiClient
